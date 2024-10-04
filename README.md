@@ -12,12 +12,12 @@ file dokumen. jika kita mendeklarasikan CSS Internal kita memberikan instruksi v
 Menambahkan style pada paragraf dengan menggunakan inline css/penulisan codenya berada di awal paragraf, sama seperti sebelumnya
 penulisannya berada dalam satu file yang sama. Jika kita menambahkan inline CSS ke dalam elemen HTML, kita memberikan gaya langsung pada elemen tersebut, 
 menggunakan atribut styledi dalam tag HTML.
-![Screenshot (442)](https://github.com/user-attachments/assets/23e62f2e-5243-4883-b769-bce8cfab917c)
+![Screenshot (441)](https://github.com/user-attachments/assets/9e134931-111a-42c7-bec8-d8d4171c8940)
 # Membuat CSS Eksternal
 pertama buat file baru dengan nama "style_eksternal.css, lalu setelah itu isi, setelah di isi tambahkan
 tag <link> pada file dokumen untuk memanggil style cssnya, sehingga tampilannya akan jadi seperti ini. CSS eksternal dapat digunakan ntuk mengelola gaya 
 dalam satu file ringkasan dan menerapkannya ke beberapa halaman web sekaligus.
-![Screenshot (442)](https://github.com/user-attachments/assets/103ca545-86c8-4027-a87e-b60c85f077ec)
+![Screenshot (442)](https://github.com/user-attachments/assets/28e82e26-4bfa-4947-855c-4c6598966af7)
 # Menambahkan CSS Selector
 Dengan menambahkan selector, kita dapat mengatur tampilan berbagai elemen di halaman web berdasarkan tipe elemen, kelas, ID, atribut, atau status tertentu.
 setelah menambahkan CSS selector maka tampilannya akan seperti di bawah ini.
