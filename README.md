@@ -39,7 +39,7 @@ setelah menambahkan CSS selector maka tampilannya akan seperti di bawah ini.
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! (<p id="paragraf-1" class="text-paragraf">)
 
 # JAWABAN
-1. Saya mengubah warna tampilan web dengan warna lain dan juga menambahkan satu bar bernama "CSS" dengan menambahkan tag "<link>"
+1. Saya mengubah warna tampilan web dengan warna lain dan juga menambahkan satu bar bernama "CSS" dengan menambahkan tag "<link"
 ![Screenshot (450)](https://github.com/user-attachments/assets/5eff4e69-06b5-4e2c-acd1-81d7672362b7)
 berikut tampilan file baru saat dibuka
 ![Screenshot (449)](https://github.com/user-attachments/assets/3e3caed8-1f48-408a-9845-759152248e6e)
