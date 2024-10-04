@@ -22,6 +22,9 @@ dalam satu file ringkasan dan menerapkannya ke beberapa halaman web sekaligus.
 Dengan menambahkan selector, kita dapat mengatur tampilan berbagai elemen di halaman web berdasarkan tipe elemen, kelas, ID, atribut, atau status tertentu.
 setelah menambahkan CSS selector maka tampilannya akan seperti di bawah ini.
 ![Screenshot (444)](https://github.com/user-attachments/assets/c69fda2f-cfdd-4daa-bc50-b63cd58c0db7)
+# Hasil Validasi CSS Eksternal
+![image](https://github.com/user-attachments/assets/f21f9a73-1c47-4f4d-98cd-f601b8406301)
+
 
 # PERTANYAAN DAN TUGAS
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
@@ -30,4 +33,14 @@ setelah menambahkan CSS selector maka tampilannya akan seperti di bawah ini.
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! (<p id="paragraf-1" class="text-paragraf">)
 
 # JAWABAN
-1. Saya mengubah warna tampilan web dengan warna lain dan juga menambahkan icon 
+1. Saya mengubah warna tampilan web dengan warna lain dan juga menambahkan satu bar bernama "CSS" dengan menambahkan tag <link>
+![Screenshot (450)](https://github.com/user-attachments/assets/5eff4e69-06b5-4e2c-acd1-81d7672362b7)
+berikut tampilan file baru saat dibuka
+![Screenshot (449)](https://github.com/user-attachments/assets/3e3caed8-1f48-408a-9845-759152248e6e)
+
+2. perbedaannya adalah elemen h1 akan menargetkan semua elemen yang ada di h1 sedangkan hi intro
+3. Semua deklarasi yang akan di tampilkan jika semua elemen dan code benar maka akan menampilkan semuanya
+   ![Screenshot (444)](https://github.com/user-attachments/assets/c69fda2f-cfdd-4daa-bc50-b63cd58c0db7)
+4. Jika sebuah elemen memiliki ID dan kelas yang didefinisikan dengan CSS, maka deklarasi CSS dengan selector ID akan lebih diutamakan
+
+
