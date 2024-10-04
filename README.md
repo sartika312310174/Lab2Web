@@ -40,13 +40,15 @@ setelah menambahkan CSS selector maka tampilannya akan seperti di bawah ini.
 
 # JAWABAN
 1. Saya mengubah warna tampilan web dengan warna lain dan juga menambahkan satu bar bernama "CSS" dengan menambahkan tag "<link"
-![Screenshot (450)](https://github.com/user-attachments/assets/5eff4e69-06b5-4e2c-acd1-81d7672362b7)
-berikut tampilan file baru saat dibuka
-![Screenshot (449)](https://github.com/user-attachments/assets/3e3caed8-1f48-408a-9845-759152248e6e)
-2. perbedaannya adalah elemen h1 akan menargetkan semua elemen yang ada di h1 sedangkan hi #intro akan menargetkan yang lebih spesifik,
-3. Semua deklarasi yang akan di tampilkan jika semua elemen dan code benar maka akan menampilkan semuanya
-   ![Screenshot (444)](https://github.com/user-attachments/assets/c69fda2f-cfdd-4daa-bc50-b63cd58c0db7)
-4. Jika sebuah elemen memiliki ID dan kelas yang didefinisikan dengan CSS, maka deklarasi CSS dengan selector ID akan lebih diutamakan.
+   ![Screenshot (450)](https://github.com/user-attachments/assets/5eff4e69-06b5-4e2c-acd1-81d7672362b7)
+   berikut tampilan file baru saat dibuka
+   ![Screenshot (449)](https://github.com/user-attachments/assets/3e3caed8-1f48-408a-9845-759152248e6e)
+2. Kedua elemen ini sama-sama digunakan untuk memberikan kepala dari elemen <h1> dengan kelas 'intro'. tapi,
+   perbedaannya adalah apakah di-deklarasikan melalui kelas atau melalui ID. kalau class kemungkinan untuk menggunakan deklarasi ini untuk lebih dari satu elemen       
+   melalui atribut 'class'. Sedangkan ID, memberikan satu dan hanya satu elemen untuk setiap ID. ID juga biasanya digunakan untuk membuat elemen lebih khusus.
+4. Pada satu elemen HTML yang memiliki ID dan kelas yang masing-masing memiliki deklarasi CSS, deklarasi mana yang akan ditampilkan pada situs web itu tergantung pada urutan deklarasi    
+   CSS. Deklarasi CSS yang ditampilkan pertama kali adalah yang akan diterapkan pada elemen tersebut. Jika deklarasi CSS yang pertama untuk elemen tersebut adalah berdasarkan kelas, maka 
+   deklarasi melalui kelas akan lebih tinggi prioritasnya daripada ID.
    ![Screenshot (444)](https://github.com/user-attachments/assets/c69fda2f-cfdd-4daa-bc50-b63cd58c0db7)
 
 
