@@ -23,7 +23,8 @@ Dengan menambahkan selector, kita dapat mengatur tampilan berbagai elemen di hal
 setelah menambahkan CSS selector maka tampilannya akan seperti di bawah ini.
 ![Screenshot (444)](https://github.com/user-attachments/assets/c69fda2f-cfdd-4daa-bc50-b63cd58c0db7)
 # Hasil Validasi CSS Eksternal
-![image](https://github.com/user-attachments/assets/f21f9a73-1c47-4f4d-98cd-f601b8406301)
+![image](https://github.com/user-attachments/assets/99c1816f-9232-4eed-87d3-1899b345ceee)
+
 
 
 # PERTANYAAN DAN TUGAS
@@ -37,10 +38,10 @@ setelah menambahkan CSS selector maka tampilannya akan seperti di bawah ini.
 ![Screenshot (450)](https://github.com/user-attachments/assets/5eff4e69-06b5-4e2c-acd1-81d7672362b7)
 berikut tampilan file baru saat dibuka
 ![Screenshot (449)](https://github.com/user-attachments/assets/3e3caed8-1f48-408a-9845-759152248e6e)
-
-2. perbedaannya adalah elemen h1 akan menargetkan semua elemen yang ada di h1 sedangkan hi intro
+2. perbedaannya adalah elemen h1 akan menargetkan semua elemen yang ada di h1 sedangkan hi #intro akan menargetkan yang lebih spesifik,
 3. Semua deklarasi yang akan di tampilkan jika semua elemen dan code benar maka akan menampilkan semuanya
    ![Screenshot (444)](https://github.com/user-attachments/assets/c69fda2f-cfdd-4daa-bc50-b63cd58c0db7)
-4. Jika sebuah elemen memiliki ID dan kelas yang didefinisikan dengan CSS, maka deklarasi CSS dengan selector ID akan lebih diutamakan
+4. Jika sebuah elemen memiliki ID dan kelas yang didefinisikan dengan CSS, maka deklarasi CSS dengan selector ID akan lebih diutamakan.
+   ![Screenshot (444)](https://github.com/user-attachments/assets/c69fda2f-cfdd-4daa-bc50-b63cd58c0db7)
 
 
