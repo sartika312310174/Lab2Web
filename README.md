@@ -46,7 +46,7 @@ berikut tampilan file baru saat dibuka
 2. Kedua elemen ini sama-sama digunakan untuk memberikan kepala dari elemen h1 dengan kelas 'intro'. tapi, perbedaannya adalah apakah di-deklarasikan melalui kelas atau melalui ID. kalau class kemungkinan untuk menggunakan deklarasi ini untuk lebih dari satu elemen melalui atribut 'class'. Sedangkan ID, memberikan satu dan hanya satu elemen untuk setiap ID. ID juga biasanya digunakan untuk membuat elemen lebih khusus.
 3. yang akan ditampilkan adalah inline css, deklarasi ini akan diprioritaskan dibanding eksternal dan internal.
 ![Screenshot (441)](https://github.com/user-attachments/assets/9e134931-111a-42c7-bec8-d8d4171c8940)
-4. Pada satu elemen HTML yang memiliki ID dan kelas yang masing-masing memiliki deklarasi CSS, deklarasi mana yang akan ditampilkan pada situs web itu tergantung pada urutan deklarasi    CSS. Deklarasi CSS yang ditampilkan pertama kali adalah yang akan diterapkan pada elemen tersebut. Jika deklarasi CSS yang pertama untuk elemen tersebut adalah berdasarkan kelas, maka deklarasi melalui kelas akan lebih tinggi prioritasnya daripada ID.
+4. Pada satu elemen HTML yang memiliki ID dan kelas yang masing-masing memiliki deklarasi CSS, deklarasi mana yang akan ditampilkan pada situs web itu tergantung pada urutan deklarasi    CSS. Deklarasi CSS yang ditampilkan pertama kali adalah yang akan diterapkan pada elemen tersebut. Jika deklarasi CSS yang pertama untuk elemen tersebut adalah berdasarkan kelas, maka deklarasi melalui kelas akan lebih tinggi prioritasnya daripada ID. Di contoh ini deklarasi ID lebih dulu:
 ![Screenshot (444)](https://github.com/user-attachments/assets/c69fda2f-cfdd-4daa-bc50-b63cd58c0db7)
 
 
